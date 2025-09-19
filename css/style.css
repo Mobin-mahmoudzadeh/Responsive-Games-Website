@@ -10,3 +10,12 @@
     text-decoration: none;
     scroll-padding-top: 2rem;
 }
+/* Variables*/
+:root{
+    --main-color: #fa5353 ;
+    /* Second Color Choice*/
+    /* --main-color: #0d81ec ;*/
+    --dark-color: #1b182b ;
+    --light-color: #322f40 ; 
+    --text-color: hsl(0,0%0,91%) ;
+}
