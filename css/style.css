@@ -19,3 +19,10 @@
     --light-color: #322f40 ; 
     --text-color: hsl(0,0%0,91%) ;
 }
+img{
+    width: 100%;
+}
+body{
+    color: var(--text-color);
+    background: var(--dark-color);
+}
