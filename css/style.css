@@ -26,3 +26,16 @@ body{
     color: var(--text-color);
     background: var(--dark-color);
 }
+.container{
+    max-width: 1068px ;
+    margin: auto;
+    width: 100%;
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--dark-color);
+    z-index: 100;
+}
