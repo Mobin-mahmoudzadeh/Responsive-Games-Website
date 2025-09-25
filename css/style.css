@@ -123,3 +123,40 @@ header{
 .move .line3{
     transform: rotate(45deg) translate(-5px, -5px);
 }
+/* Menu */
+.menu{
+    position: fixed ;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 14, 0.9);
+    z-index: 106;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: 0.5s;
+    clip-path: circle(0% at 100% 0%);
+}
+.menu.active{
+    clip-path: circle(144% at 100% 0%);
+}
+.menu img{
+    width: 700px;
+}
+.navbar{
+    display: grid;
+    row-gap: 1rem;
+    text-align: right;
+    padding-right: 2rem;
+}
+.navbar a{
+    font-size: 1.6rem;
+    color: var(--text-color);
+    font-weight: 500;
+    transition: 0.2s;
+}
+.navbar a:hover{
+   border-bottom: 4px solid var(--main-color);
+   font-size: 1.8rem; 
+}
