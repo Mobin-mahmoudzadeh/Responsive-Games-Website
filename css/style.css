@@ -160,3 +160,14 @@ header{
    border-bottom: 4px solid var(--main-color);
    font-size: 1.8rem; 
 }
+/*Notification*/
+.notification{
+    position: absolute;
+    top: 110%;
+    right: 5rem;
+    background: var(--light-color);
+    width: 300px;
+    height: 350px;
+    border-radius: 0.5rem;
+    padding: 10px;
+}
