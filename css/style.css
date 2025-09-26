@@ -240,3 +240,21 @@ header{
     background: var(--light-color);
     transition: 0.3s all linear;
 }
+/* Heading */
+.heading{
+    display: flex;
+    align-items: center;
+    column-gap: 1rem;
+    margin-bottom: 2rem;
+}
+.heading .bx{
+    font-size: 21px;
+    color: var(--text-color);
+    background: var(--main-color);
+    padding: 10px;
+    border-radius: 5rem;
+}
+.heading h2{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
