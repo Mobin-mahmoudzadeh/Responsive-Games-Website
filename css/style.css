@@ -23,6 +23,9 @@
     color: var(--text-color);
     background: var(--main-color);
 }
+section{
+    padding: 4rem 0 3rem;
+}
 img{
     width: 100%;
 }
