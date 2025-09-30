@@ -32,7 +32,7 @@ document.querySelector('#bell-icon').onclick = () =>{
           spaceBetween: 15,
         },
         1068: {
-          slidesPerView: 5,
+          slidesPerView: 4,
           spaceBetween: 20,
         },
       },
