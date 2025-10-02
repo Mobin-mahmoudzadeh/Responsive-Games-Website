@@ -22,6 +22,10 @@ document.querySelector('#bell-icon').onclick = () =>{
         el: ".swiper-pagination",
         clickable: true,
       },
+      autoplay: {
+      delay: 5000,
+      disableOnInteraction: false,
+      },
       breakpoints: {
         640: {
           slidesPerView: 2,
