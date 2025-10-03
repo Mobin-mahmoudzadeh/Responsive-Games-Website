@@ -320,3 +320,9 @@ header{
 .box-btn .bx:hover{
     background: var(--dark-color);
 }
+/* New */
+.new-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(240px, auto));
+    gap: 1.2rem;
+}
