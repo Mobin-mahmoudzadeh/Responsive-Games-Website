@@ -343,3 +343,12 @@ header{
     background: var(--light-color);
     transition: 0.3s all linear;
 }
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.copyright p{
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
