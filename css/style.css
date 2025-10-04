@@ -352,3 +352,8 @@ header{
     font-size: 0.9rem;
     color: var(--text-color);
 }
+/* Dowload Page Css*/
+.video-container video{
+    width: 100%;
+    aspect-ratio: 16/9;
+}
