@@ -357,3 +357,6 @@ header{
     width: 100%;
     aspect-ratio: 16/9;
 }
+.video-container{
+    margin-top: 5rem;
+}
