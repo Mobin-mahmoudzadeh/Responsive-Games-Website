@@ -360,3 +360,17 @@ header{
 .video-container{
     margin-top: 5rem;
 }
+.about{
+    margin-top: 2rem;
+}
+.about h2{
+    display: inline-flex;
+    font-size: 1.4rem;
+    font-weight: 500;
+    border-bottom: 4px solid var(--main-color);
+}
+.about p{
+    font-size: 0.938rem;
+    margin-top: 1rem;
+    text-align: justify;
+}
