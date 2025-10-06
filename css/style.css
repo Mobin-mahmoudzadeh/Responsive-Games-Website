@@ -427,3 +427,7 @@ header{
     background: var(--light-color);
     transition: 0.3s all linear;
 }
+/* Display Block For Deafoult Scroll Bar */
+html::-webkit-scrollbar{
+    display: none;
+}
