@@ -31,8 +31,6 @@ This project simulates a game showcase website with sections for trending, new, 
 ![Home Page](./HomePageScreenshot.png)
 
 
-
-
 ---
 
 ## 🪪 License
