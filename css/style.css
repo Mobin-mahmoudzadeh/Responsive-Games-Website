@@ -477,3 +477,24 @@ html::-webkit-scrollbar{
         margin-top: 5rem !important;
     }
 }
+/* For Medium Devices*/
+@media(max-width: 774px){
+    .notification{
+        right: 1rem;
+    }
+    .menu img{
+        width: 400px;
+    }
+    .home{
+        min-height: 300px;
+    }
+    .home-text h1{
+        font-size: 2rem;
+    }
+    .btn{
+        padding: 12px 17px;
+    }
+    .ScreenShots-content{
+        grid-template-columns: repeat(auto-fit, minmax(250px, 300px));
+    }
+}
