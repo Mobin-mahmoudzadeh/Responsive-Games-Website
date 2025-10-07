@@ -498,3 +498,31 @@ html::-webkit-scrollbar{
         grid-template-columns: repeat(auto-fit, minmax(250px, 300px));
     }
 }
+@media(max-width: 560px){
+    .menu img{
+        display: none;
+    }
+    .menu{
+        justify-content: flex-end;
+    }
+    .nav{
+        padding: 8px 0;
+    }
+    .nav-icons .bx,
+    .menu-icon{
+        height: 40px;
+        width: 40px;
+    }
+    .home{
+        min-height: 240px;
+    }
+    .home-text{
+        padding-right: 1rem;
+    }
+    p{
+        font-size: 0.875rem;
+    }
+    .download-links{
+        grid-template-columns: 1fr;
+    }
+}
