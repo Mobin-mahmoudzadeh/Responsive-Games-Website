@@ -28,10 +28,10 @@ This project simulates a game showcase website with sections for trending, new, 
 
 ## 📸 Preview
 ### 🏠 Home Page
-![Home Page](./Home Page Screenshot)
+![Home Page](../Home Page Screenshot)
 
 ### 🎮 Download Page
-![Download Page](./dowload Page Screenshot.png)
+![Download Page](../dowload Page Screenshot.png)
 
 ---
 
