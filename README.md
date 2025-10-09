@@ -34,13 +34,5 @@ This project simulates a game showcase website with sections for trending, new, 
 ![Download Page](./dowloadPageScreenshot.png)
 
 ---
-
-## 🪪 License
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
-## 🧑‍💻 Author
-**Mobin Mahmoudzadeh**  
-📧 [Mobin.mahmoudzadehhh@gmail.com](mailto:Mobin.mahmoudzadehhh@gmail.com)  
-🌐 [GitHub Profile](https://github.com/Mobin-mahmoudzadeh)
