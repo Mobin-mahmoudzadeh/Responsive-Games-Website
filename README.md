@@ -33,6 +33,4 @@ This project simulates a game showcase website with sections for trending, new, 
 ### 🎮 Download Page
 ![Download Page](./dowloadPageScreenshot.png)
 
----
----
 
