@@ -258,6 +258,21 @@ header{
     font-size: 1.2rem;
     font-weight: 500;
 }
+.More-Games{
+    left: 680px;
+    display: flex;
+    position: relative;
+    padding-left: 10rem;
+    background: var(--main-color);
+    padding: 12px 20px;
+    color: var(--text-color);
+    letter-spacing: 1px;
+    font-weight: 500; 
+    border-radius: 1.5rem;
+}
+.More-Games:hover{
+    background: var(--light-color);
+}
 .box {
     position: relative;
     width: 100%;
@@ -276,7 +291,7 @@ header{
     left: 0;
     bottom: 0;
     padding: 10px;
-    background: hsl(227, 14%, 20%, 0.8);
+    background: hsla(226, 7%, 61%, 0.573);
     backdrop-filter: blur(4px);
     border-radius: 0.5rem;
 }
